@@ -1,0 +1,20 @@
+body {
+  font-size: 40px;
+  text-align: center;
+  margin: 0 auto;
+}
+table {
+  margin: 0 auto;
+}
+td {
+  padding: 80px;
+  margin: 0px;
+}
+.vertical {
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+}
+.horizontal {
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
